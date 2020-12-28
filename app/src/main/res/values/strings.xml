@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkuadRestaurantsApp</string>
+    <string name="search">Search for restaurants, cuisines</string>
+    <string name="norestfound">No restaurants found</string>
+    <string name="kitchendetails">Well sanitized kitchen * Daily temperature checks * Rider hand wash</string>
+    <string name="restnamerestnamerestnamerestnamerestnamerestnamerestnamerestname">restnamerestnamerestnamerestnamerestnamerestnamerestnamerestname</string>
+    <string name="_4_5">4.5</string>
+    <string name="pizza">Pizza</string>
+    <string name="rs200_per_person">Rs200 per person</string>
+    <string name="_50_mins">50 mins</string>
+    <string name="closes_in_25_mintues">Closes in 25 Mintues</string>
+</resources>
